@@ -62,6 +62,8 @@
     <p><strong>Hello DevOps ⚙️ — Déploiement réussi !</strong></p>
 
     <p>Cette page est utilisée comme preuve du succès du pipeline Jenkins, indiquant que la nouvelle version a bien été construite et déployée.</p>
+    <p>Cette page indique que le test validé</p>
+
 </div>
 </body>
 </html>
